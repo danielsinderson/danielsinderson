@@ -3,8 +3,8 @@ I got into programming for the poetry bots and the digital synthesizers. I staye
 
 I'm also a math nerd with special love for the applied sides of differential equations and category theory, and an anthropology nerd with special love for ethnographic methods and institutional theory. I have a B.A. in Anthropology, an A.A.S. in Electronics Engineering, and (soon!) a B.S. in Mathematics.
 
-
-Fun Fact: I know what a monad is which makes me think I should learn Haskell, but I don't really want to learn Haskell.
+-------------------------
+- ⚡ Fun fact: I know what a monad is which makes me think I should learn Haskell, but I don't really want to learn Haskell.
 
 <!--
 **danielsinderson/danielsinderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
