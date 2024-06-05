@@ -4,6 +4,6 @@ I got into programming for the poetry bots and the digital synthesizers. I staye
 I'm also a math nerd with special love for the applied sides of differential equations and category theory, and an anthropology nerd with special love for ethnographic methods and institutional theory. I have a B.A. in Anthropology, an A.A.S. in Electronics Engineering, and (soon!) a B.S. in Mathematics.
 
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielsinderson&theme=merko)](https://github.com/danielsinderson/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielsinderson&theme=dracula)](https://github.com/danielsinderson/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielsinderson&hide=tex&langs_count=8&layout=compact&theme=dracula)](https://github.com/danielsinderson/github-readme-stats)
