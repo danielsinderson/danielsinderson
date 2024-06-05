@@ -5,4 +5,5 @@ I'm also a math nerd with special love for the applied sides of differential equ
 
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielsinderson)](https://github.com/danielsinderson/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielsinderson&hide=javascript,html,tex&langs_count=3)](https://github.com/danielsinderson/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielsinderson&hide=javascript,html,tex&langs_count=5&layout=compact)](https://github.com/danielsinderson/github-readme-stats)
