@@ -5,7 +5,7 @@ I'm also a math nerd with special love for differential equations and category t
 
 #### Current Projects
 - 🎲 A desktop app to help me run my homebrew tabletop roleplaying game (Python and Flet).
-- 🎛️ The next iteration (finally) of cheap, DIY friendly digital synthesizer modules.
+- 🎛️ The next iteration (finally) of super cheap, DIY friendly digital synthesizer modules.
 
 <a href="https://github.com/danielsinderson/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=danielsinderson&theme=dracula" />
