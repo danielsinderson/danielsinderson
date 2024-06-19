@@ -9,6 +9,6 @@ I'm also a math nerd with special love for differential equations and category t
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=danielsinderson&theme=dracula" />
 </a>
 <a href="https://github.com/danielsinderson/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsinderson&hide=tex,html,objective-c,gap,javascript&langs_count=8&layout=compact&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsinderson&hide=tex,html,objective-c,gap&langs_count=8&layout=compact&theme=dracula" />
 </a>
 
