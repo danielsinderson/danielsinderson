@@ -1,7 +1,9 @@
 ### Hi, I'm Daniel Sinderson.
-I got into programming for the poetry bots and the digital synthesizers. I stayed because of how powerful a tool it is for making, exploring, and testing things. I have just over 7 years of experience writing Python and C for personal projects including NLP, small games, data analysis, websites, the aforementioned bots and synths, and myriad one-off helper scripts.
+I'm an aspiring data analyst and applied mathematician who likes to make things with code and wires. I'm interested in qualitative and quantitative research methods, and in the mathematical and statistical modeling of complex systems.
 
-I'm also a math nerd with special love for differential equations and category theory, and an anthropology nerd with special love for ethnographic methods and institutional theory. I have a B.A. in Anthropology, an A.A.S. in Electronics Engineering, and a B.S. in Mathematics. For more information you can go to my website [here](https://workingtheory.reflex.run/).
+I have a B.A. in Anthropology, an A.A.S. in Electronics Engineering, and a B.S. in Mathematics, and I'm currently working through a course of advanced study that can be found [here](https://github.com/danielsinderson/DIY-Grad-School). I've recently been enjoying working with R and Julia for data analysis and mathematical modeling, and I have over 7 years of experience writing Python and C for personal projects including natural language processing and generation, small games, websites (via Reflex), digital synthesizers, and myriad one-off helper scripts.
+
+For more information on who I am and what projects I'm working on, you can go to my website [here](https://workingtheory.reflex.run/).
 
 
 
