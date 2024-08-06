@@ -7,7 +7,7 @@ For more information on who I am and what projects I'm working on, you can go to
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielsinderson&show_icons=true&theme=dracula)](https://github.com/danielsinderson/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielsinderson&hide=tex,html,makefile,objective-c,gap&langs_count=6&layout=compact&theme=dracula)
+![Top Programming Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielsinderson&hide=tex,html,makefile,objective-c,gap&langs_count=6&layout=compact&theme=dracula)
 
 
 <a href="https://github.com/danielsinderson/github-readme-stats">
