@@ -5,7 +5,7 @@ I have a B.A. in Anthropology, an A.A.S. in Electronics Engineering, and a B.S. 
 
 For more information on who I am and what projects I'm working on, you can go to my website [here](https://workingtheory.reflex.run/).
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielsinderson)](https://github.com/danielsinderson/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielsinderson)](https://github.com/danielsinderson/github-readme-stats&theme=dracula)
 
 [![Daniel's GitHub stats]([https://github-readme-stats.vercel.app/api?username=danielsinderson)](https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danielsinderson&hide=tex,html,makefile,objective-c,gap&langs_count=6&layout=compact&theme=dracula))
 ![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=danielsinderson&hide=javascript,html](https://github-readme-stats.vercel.app/api/top-langs/?username=danielsinderson&hide=c,c++,python,r,julia,lean,javascript,makefile,objective-c,gap&langs_count=6&layout=compact&theme=dracula))
