@@ -11,6 +11,6 @@ For more information on who I am and what projects I'm working on, you can go to
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=danielsinderson&theme=dracula" />
 </a>
 <a href="https://github.com/danielsinderson/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsinderson&hide=tex,html,makefile,objective-c,gap&langs_count=8&layout=compact&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsinderson&hide=tex,html,makefile,objective-c,gap&langs_count=10&layout=compact&theme=dracula" />
 </a>
 
