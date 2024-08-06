@@ -7,7 +7,7 @@ For more information on who I am and what projects I'm working on, you can go to
 
 
 <a href="https://github.com/danielsinderson/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=danielsinderson&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=danielsinderson&theme=dracula&rank_icon=percentile" />
 </a>
 
 <a href="https://github.com/danielsinderson/github-readme-stats">
